@@ -1,4 +1,4 @@
-## Simples tratamento de dados
+## Tratamento e Visualização de dados 
 
-### Atividade proposta no Webninar da Escola Britânica de Artes Criativas
-  + Utilizando uma base de dados gratuita via [Kaggle](https://www.kaggle.com/loveall/clicks-conversion-tracking)
+### Atividade realizada com a utilização de Gráficos de densidade
+  + Utilizando a biblioteca seaborn
